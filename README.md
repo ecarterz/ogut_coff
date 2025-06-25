@@ -1,6 +1,3 @@
 # PHP_Kasir-Restoran
-Membuat Aplikasi Kasir Restoran Berbasis Web Menggunakan PHP MySQL
+Membuat Aplikasi Coffee Shop Berbasis Web Menggunakan PHP Native, Bootstrap CSS, Javascript, MySQL
 
-Akun Admin
-
-Pass: admin | Username: admin
